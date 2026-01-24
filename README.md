@@ -37,9 +37,6 @@
 - Build real-world web applications
 - Write clean, maintainable code
 
-## 📊 GitHub Stats
-![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=belalnaser7&show_icons=true&theme=default)
-
 ---
 
 ## 📌 Projects
@@ -51,4 +48,5 @@ Here you’ll find learning projects and practice applications focused on:
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/belal-nasser-0b475022a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Belal_Naser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belal-nasser-0b475022a/)
+
