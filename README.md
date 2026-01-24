@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Belal Naser
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&width=440&lines=Junior+Back-End+Developer;ASP.NET+Core+Learner;Clean+Code+Enthusiast" />
+
 
 💻 Junior Back-End Developer (.NET / ASP.NET)
 🎓 Computer Science Student  
@@ -28,13 +30,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
 ## 🎯 Goals
 - Become a professional Back-End Developer
 - Build real-world web applications
 - Write clean, maintainable code
+
+## 📊 GitHub Stats
+![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=belalnaser7&show_icons=true&theme=default)
 
 ---
 
@@ -47,5 +51,4 @@ Here you’ll find learning projects and practice applications focused on:
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/belal-nasser-0b475022a/
-  
+[![LinkedIn](https://www.linkedin.com/in/belal-nasser-0b475022a/)
