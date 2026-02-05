@@ -50,7 +50,7 @@ Here you’ll find learning projects and practice applications focused on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Belal_Naser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belal-nasser-0b475022a/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelalNaser&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=belalnaser7&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelalNaser&layout=compact&theme=tokyonight" />
