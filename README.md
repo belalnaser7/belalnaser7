@@ -52,3 +52,6 @@ Here you’ll find learning projects and practice applications focused on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BelalNaser&show_icons=true&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelalNaser&layout=compact&theme=tokyonight" />
+</p>
